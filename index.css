@@ -1,0 +1,12 @@
+.container{
+    width: 1200px;
+}
+.col-sm-4{
+    color: white;
+}
+.col-sm-8{
+    color: white;
+}
+.col-sm-3{
+    margin-top: 20px;
+}
